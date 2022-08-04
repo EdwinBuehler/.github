@@ -1,3 +1,27 @@
+<div id="header" align="center">
+  <img src="https://github.com/Fulnir/Fulnir/blob/main/logo_edwin_buehler.png"/>
+  
+  # Hi there 👋 I'm Edwin
+  
+  ## *ACME* - A CEO Makes Everything
+</div>
+
+#### Independent Engineer 👨‍💻 Not with the skills of a magician🧙‍♂️, but with a lot of fun🥳 and diligence😓, I create my apps🍎.
+
+- 🔭 I am currently working on my new application [View of Things](https://github.com/view-of-things) <img src="https://github.com/View-Of-Things/.github/blob/main/logo.png" width="32" height="32"/>
+- 🌱 I’m currently learning Swift, SwiftUI …
+- ⚡ I'm a passionate runner …
+
+<!--
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+
+**Fulnir/Fulnir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
+
+
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
