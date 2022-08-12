@@ -1,9 +1,9 @@
 <div id="header" align="center">
-  <img src="https://github.com/Fulnir/Fulnir/blob/main/logo_edwin_buehler.png"/>
+  <img src="https://github.com/Fulnir/Fulnir/blob/main/Edwin-Buehler-Schriftzug Rot Schatten.png"/>
   
-  # Hi there 👋 I'm Edwin
+  👋
   
-  ## *ACME* - A CEO Makes Everything
+  # Welcome to Edwin Bühler's developer site on GitHub
 </div>
 
 #### Independent Engineer 👨‍💻 Not with the skills of a magician🧙‍♂️, but with a lot of fun🥳 and diligence😓, I create my apps🍎.
