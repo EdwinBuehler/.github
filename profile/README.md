@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://github.com/Fulnir/Fulnir/blob/main/Edwin-Buehler-Schriftzug Rot Schatten.png"/>
+  <img src="https://github.com/EdwinBuehler/.github/blob/main/profile/Edwin-Buehler-Schriftzug%20Rot%20Schatten.png"/>
   
   👋
   
