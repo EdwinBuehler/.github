@@ -53,5 +53,5 @@ I have worked for a long time as a freelance Smalltalk developer for government 
 
 
 <div id="header" align="center">
-   <img src="https://github.com/Fulnir/Fulnir/blob/main/Archimedes_1024.png" width="128"/>
+   <img src="https://github.com/EdwinBuehler/.github/blob/main/profile/Logo-Edwin-Buehler_schatten.png" width="128"/>
 </div>
