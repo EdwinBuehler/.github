@@ -1,17 +1,19 @@
 <div id="header" align="center">
   <img src="https://github.com/EdwinBuehler/.github/blob/main/profile/Edwin-Buehler-Schriftzug%20Rot%20Schatten.png"/>
   
-  👋
-  
   # Welcome to Edwin Bühler's developer site on GitHub
+  
+  #### Independent Engineer 👨‍💻 Not with the skills of a magician🧙‍♂️, but with a lot of fun🥳 and diligence😓, I create my apps🍎
 </div>
 
-#### Independent Engineer 👨‍💻 Not with the skills of a magician🧙‍♂️, but with a lot of fun🥳 and diligence😓, I create my apps🍎.
 
-- 🔭 I am currently working on my new application [View of Things](https://github.com/view-of-things) <img src="https://github.com/View-Of-Things/.github/blob/main/logo.png" width="32" height="32"/>
-- 🌱 I’m currently learning Swift, SwiftUI …
+
+
 
 I have worked for a long time as a freelance Smalltalk developer for government agencies and insurance companies. I have used Smalltalk since 1993. Digitalk/V, SmalltalkAgents, SmallScript, VisualAge, Squeak, Pharo, and VisualWorks. Other programming languages I have used over the years are Realbasic, Objective-C, Scala, Dart, Elixir, and Swift. And before that: Basic, Pascal, Pearl, Lisp, and Assembler.
+
+
+
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/edwinbuehler/">
@@ -39,8 +41,6 @@ I have worked for a long time as a freelance Smalltalk developer for government 
   <img src="https://github.com/devicons/devicon/blob/master/icons/elixir/elixir-original.svg" title="Elixir" alt="Elixir" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/phoenix/phoenix-original.svg" title="Phoenix" alt="Phoenix" width="40" height="40"/>&nbsp;
 </div>
-
----
 
 <div align="center">
 
